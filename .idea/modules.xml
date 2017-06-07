@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/androidapp/androidapp.iml" filepath="$PROJECT_DIR$/androidapp/androidapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidapp/androidapp.iml" filepath="$PROJECT_DIR$/androidapp/androidapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eCan.iml" filepath="$PROJECT_DIR$/eCan.iml" />
       <module fileurl="file://$PROJECT_DIR$/eCan.iml" filepath="$PROJECT_DIR$/eCan.iml" />
       <module fileurl="file://$PROJECT_DIR$/eCan.iml" filepath="$PROJECT_DIR$/eCan.iml" />
     </modules>
